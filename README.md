@@ -18,8 +18,8 @@ This Power BI dashboard visualizes the **IMDB Top 250 Movies** dataset, offering
 - 🎬 **Top-Ranked Films Display**: Instantly spot the highest-ranked movies like *The Shawshank Redemption*, *The Godfather*, and *The Dark Knight*.
 - 🎥 **Director Selection**: Browse movies by notable directors including Alfred Hitchcock, Akira Kurosawa, and Alejandro G. Iñárritu.
 
-You can view and interact with the dashboard via this link:
-[Power BI Dashboard](https://app.powerbi.com/links/ek1wP_ABYv?ctid=8f0319ae-4931-46f8-886f-cac55cf3ab0b&pbi_source=linkShare)
+You can download and interact with the dashboard via this link:
+[Power BI Dashboard](https://1drv.ms/u/c/aa91c4818f5051bd/EWKhnIrCsSJBtpTjo9qjo98BSVhmTP-9N-U_u3b_nCEk8g?e=alZjcF))
 
 ---
 
