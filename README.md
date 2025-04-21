@@ -26,8 +26,7 @@ You can view and interact with the dashboard via this link:
 ## 📂 Dataset Details  
 - **Name**: IMDB Top 250 Movies  
 - **Format**: Power BI visual (.pbix)  
-- **Source**: IMDB Dataset (via Kaggle)  
-- **File Used**: imdb_top_1000.csv (for broader dataset projects) or Top 250 subset  
+- **Source**: IMDB Dataset (via [Kaggle](https://www.kaggle.com/datasets/rajugc/imdb-top-250-movies-dataset))    
 - **Fields Included**:
   - `Series_Title` – Movie title  
   - `Genre` – Primary & secondary genres  
