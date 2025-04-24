@@ -19,7 +19,7 @@ This Power BI dashboard visualizes the **IMDB Top 250 Movies** dataset, offering
 - 🎥 **Director Selection**: Browse movies by notable directors including Alfred Hitchcock, Akira Kurosawa, and Alejandro G. Iñárritu.
 
 You can download and interact with the dashboard via this link:
-[Power BI Dashboard](https://1drv.ms/u/c/aa91c4818f5051bd/EWKhnIrCsSJBtpTjo9qjo98BSVhmTP-9N-U_u3b_nCEk8g?e=alZjcF))
+[Power BI Dashboard](https://1drv.ms/u/c/aa91c4818f5051bd/EWKhnIrCsSJBtpTjo9qjo98BSVhmTP-9N-U_u3b_nCEk8g?e=alZjcF)
 
 ---
 
